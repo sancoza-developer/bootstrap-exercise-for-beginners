@@ -1,4 +1,4 @@
-# 0% css only Bootstrap 😍
+# Bootstrap execise with active navbar 😍
 
 ### 😎 for biginners 
 
